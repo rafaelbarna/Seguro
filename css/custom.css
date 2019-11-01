@@ -1,0 +1,25 @@
+div .swiper-slide p { margin: 0 40px; }
+
+.fa-black { color: black; }
+
+.fa-color-black{color: black;}
+
+.width-auto { width: auto; }
+
+.bg-deep-blue { background-color:#0c0044; }
+
+.bg-gradient-1 { background-image: linear-gradient(to right top, #051937, #003455, #005070, #006f88, #008e9b); }
+
+.text-blue {color:#00a8b8}
+
+.custom-header-border { border-radius: 0% 0% 70% 30% / 0% 0% 70% 70 }
+
+::placeholder { color:#939393; opacity: 1; }
+
+.text-danger input::placeholder { color: blue; opacity: 1; }
+
+.header-no-padding { padding-top: 0px; padding-bottom: 0px; }
+
+.header-format { border-radius: 0% 0% 50% 50% / 50% 50% 50% 50% }
+
+/* 0% 0% 70% 30% / 0% 0% 70% 70% */
