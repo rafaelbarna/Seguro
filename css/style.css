@@ -2909,8 +2909,11 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 .portfolio-grid.work-5col li.grid-item-double, .blog-grid.blog-5col li.grid-item-double {width: 40%;}
 
 /* portfolio 4 column */
-.portfolio-grid.work-4col li, .blog-grid.blog-4col li {width: 25%} 
+.portfolio-grid.work-4col li, .blog-grid.blog-4col li {width: 20%} 
 .portfolio-grid.work-4col li.grid-item-double, .blog-grid.blog-4col li.grid-item-double {width: 50%;}
+
+/* portfolio 5 comumn */
+.blog-grid.blog-5col li { width: 20%; }
 
 /* portfolio 3 column */
 .portfolio-grid.work-3col li, .blog-grid.blog-3col li {width: 33.33%; float: left}
